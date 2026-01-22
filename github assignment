@@ -1,0 +1,6 @@
+## 🐍 Python Code (hello_world.py)
+
+Save this as **hello_world.py**:
+
+```python
+print("Hello, World!")
